@@ -1,0 +1,238 @@
+/*for tablet device*/
+@media screen and (min-width:768px) and (max-width:991px){
+/*	side-navbar area start hare*/
+
+
+
+
+
+
+}
+
+
+/*	For mobile device*/
+
+@media screen and (max-width:767px) {
+
+/*	side-navbar area start hare*/
+.header {
+	position: sticky;
+	top: 0;
+	z-index: 999;
+}
+.nav-area {
+	display: none;
+}
+.logo p {
+	font-size: 14px;
+}
+.logo h2 {
+	font-size: 20px;
+}
+svg {
+	width: 140px;
+}
+.humabar-icon {
+	display: block;
+}
+.phone-num {
+	display: none;
+}
+
+.header-content {
+	position: relative;
+}
+.nav-area {
+	background: #fff;
+	position: absolute;
+	left: -10px;
+	top: 100%;
+	width: 105%;
+	z-index: 99;
+}
+.nav-area ul li {
+	float: none;
+}
+.nav-area ul ul {
+	left: 40%;
+}
+/*	side-navbar area end hare*/
+/*feature area responsive hare*/
+.feature-content {
+	padding-left: 5%;
+	padding-top: 50px;
+}
+.feature-content h1 {
+	font-size: 28px;
+}
+.feature-content h3 {
+	font-size: 25px;
+}
+.feature-content p {
+	font-size: 16px;
+}
+.features-box {
+	margin-top: 15px;
+}
+/*feature-area responsive end hare*/
+/*law area responsive hare*/
+.section-law {
+	padding: 25px 0px;
+}
+.Criminal-Law {
+	padding-top: 30px;
+}
+.Criminal-Law h2 {
+	margin: 0;
+	padding-bottom: 10px;
+}
+.cherish-law {
+	padding: 5px 0px;
+}
+.charis-img img {
+	margin-top: 10px;
+	width: 100%;
+	height: 100%;
+}
+.cherish-content {
+	height: auto !important;
+}
+.cherish-content h2 {
+	font-size: 30px;
+}
+.charis-img {
+	padding-top: 20px;
+	position: initial;
+}
+/*law area responsive end hare*/
+
+.help-area {
+	padding-top: 0px;
+}
+/*clints area responsive hare*/
+.clients h2 {
+	font-size: 28px;
+}
+.phone p {
+	font-size: 18px;
+}
+.phone i {
+	font-size: 20px;
+}
+.clients-carousel {
+	width: 100%;
+}
+.carousel-content p:first-child {
+	font-size: 100px;
+}
+.carousel-content p {
+	padding: 0px 10px;
+}
+.owl-next {
+	top: 20%;
+	right: 0;
+}
+
+.owl-prev {
+	top: 20%;
+	left: 0;
+}
+.mic-content {
+	padding: 10px 20px;
+}
+/*clint area responsive end hare*/
+/*fusce responsive start hare*/
+.fusce-content h2 {
+	font-size: 24px;
+	line-height: 38px;
+	padding-bottom: 20px;
+}
+/*contact us responsive start hare*/
+.contant-content {
+	padding: 40px 0px;
+}
+.sr-item {
+	padding-left: 20px;
+}
+.contant-form {
+	padding: 20px 30px;
+}
+.sr-item i {
+	font-size: 20px;
+}
+.sr-item p {
+	font-size: 18px;
+}
+
+/*contnt style end hare*/
+/*footer responsive hare*/
+.footer-area {
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.practice-area {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.brands-logo p {
+	font-size: 14px;
+	padding-top: 5px;
+}
+.brands-logo h2 {
+	font-size: 20px;
+}
+.Useful-links {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.practice-area,
+.brands-details,
+.Useful-links {
+	border-right: none;
+	border-bottom: 1px solid #192E39;
+}
+.border-none {
+	border: none;
+}
+.social-icon {
+	padding-bottom: 20px;
+}
+.fusce {
+	padding: 20px 0px;
+}
+.family-law-content {
+	margin-top: 10px;
+}
+.cherish-content a {
+	width: 150px;
+	margin-top: 10px;
+}
+.help-box {
+	padding: 20px 15px;
+}
+.help-box h2 {
+	padding-top: 5px;
+	font-size: 35px;
+}
+
+.help-box a {
+	padding: 10px 20px;
+	margin-top: 10px;
+}
+.massage-area button {
+	padding: 10px 30px;
+}
+.family-law h2{
+	font-size: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+}
